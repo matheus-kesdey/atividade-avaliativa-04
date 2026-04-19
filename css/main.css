@@ -18,27 +18,6 @@ h1 {
     color: white;
 }
 
-nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-li {
-    margin: 5px;
-}
-
-ul {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-}
-
-a {
-    color: white;
-    text-decoration: none;
-}
-
 main {
     display: flex;
     justify-content: center;
